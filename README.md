@@ -1,30 +1,26 @@
-# Nama Repository
+# Nama Repository # Biodata
 
-Deskripsi singkat tentang repository ini.
+## Informasi Pribadi
+- **Nama:** Akalily zahiroh
+- **Tanggal Lahir:** 07-08-2008
+- **Alamat:** Banyuurip ujungpangkah
+- **Kota:** Gresik
+- **Negara:** Indonesia
 
-## Instalasi
+## Pendidikan
+- **Sekolah Menengah:** SMA SAINS AL-QUR'AN WAHID HASYIM YONGYAKART
+ 
 
-Petunjuk tentang cara menginstalasi atau menggunakan repository ini.
+## Keahlian
+- Melukis
+- Menggambar
+  
 
-## Penggunaan
-
-Cara penggunaan dan contoh-contoh penggunaan dari repository ini.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori ini
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Lakukan perubahan yang diperlukan
-4. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`)
-5. Push ke branch (`git push origin fitur-baru`)
-6. Buat permintaan tarik (Pull Request)
-
-## Lisensi
-
-Tulis informasi tentang lisensi proyek di sini.
+## hobi
+- melukis
+- menggambar
+- randomaja
 
 ## Kontak
-
-Untuk pertanyaan atau keterangan lebih lanjut, hubungi [nama Anda](mailto:email@contoh.com).
+- **Email:** zahroakalily@gmail.com
+- **Telepon:** 085815186521
